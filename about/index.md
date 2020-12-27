@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Taarieq
+title: About
 tags: [about, Taarieq Dinmohamed, Artificial Intelligence, Machine Learning, Education, Experience]
 date: 2020-12-27
 comments: false
