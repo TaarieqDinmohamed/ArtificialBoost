@@ -4,7 +4,7 @@ bio:                'A company by Taarieq Dinmohamed'
 description:        "A company made to boost others with the use of advanced techinques in Artificial Intelligence"
 reading_time:       false
 words_per_minute:   200
-logo:               'assets/img/cover.png'
+logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
